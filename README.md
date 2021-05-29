@@ -1,2 +1,2 @@
-# Basic Fullscreen Image Slider with html, css, js
+# this is Basic Responsive Fullscreen Image Slider with html, css, javascript.
  
